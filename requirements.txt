@@ -1,10 +1,11 @@
 streamlit
-tensorflow
+tensorflow-cpu
+torch
+torchvision
+torchaudio
 numpy
 Pillow
-opencv-python
+opencv-python-headless
 matplotlib
 imghdr
-streamlit
 transformers
-torch
