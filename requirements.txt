@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python
+matplotlib
+imghdr
+streamlit
+transformers
+torch
